@@ -6,3 +6,21 @@
 
 ==================== WORKFLOW 3: Warden Management Actions ====================
 ...Workflow 3 content...
+=======
+==================== WORKFLOW 3: Warden Management Actions ====================
+
+Description:
+This workflow allows the warden to manage student room allocations, requests, and hostel records.
+
+Steps:
+1. Warden logs into the system dashboard.
+2. Warden views all pending room requests submitted by students.
+3. Warden approves or rejects requests.
+4. Warden updates hostel information and services if needed.
+5. System updates student records and notifies students about status changes.
+
+Key Features:
+- Manage student room requests
+- Update hostel info and services
+- Notifications sent to students
+- Dashboard with all student and hostel records
