@@ -5,10 +5,6 @@
 ...Workflow 2 content...
 
 ==================== WORKFLOW 3: Warden Management Actions ====================
-...Workflow 3 content...
-=======
-==================== WORKFLOW 3: Warden Management Actions ====================
-
 Description:
 This workflow allows the warden to manage student room allocations, requests, and hostel records.
 
