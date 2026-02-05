@@ -1,8 +1,41 @@
 ==================== WORKFLOW 1: User Authentication (Student & Warden) ====================
-...Workflow 1 content...
+Description:
+This workflow covers the login and authentication process for both students and wardens.
+
+Steps:
+1. User navigates to the login page.
+2. User enters credentials (username/email and password).
+3. System validates credentials.
+4. If credentials are correct:
+   - Student is redirected to the student dashboard.
+   - Warden is redirected to the warden dashboard.
+5. If credentials are incorrect:
+   - System shows an error message and prompts for retry.
+6. Users can reset password via the "Forgot Password" option.
+
+Key Features:
+- Secure login for students and wardens
+- Password reset and recovery
+- User role-based redirection
+- Error handling for invalid credentials
 
 ==================== WORKFLOW 2: Room Allocation & Hostel Services ====================
-...Workflow 2 content...
+Description:
+This workflow manages student room allocation and access to hostel services.
+
+Steps:
+1. Student logs into their dashboard.
+2. Student submits a room request or updates existing room preferences.
+3. System checks room availability and hostel rules.
+4. System queues the request for warden approval.
+5. Student accesses hostel services (mess, laundry, maintenance requests) through the dashboard.
+6. Notifications are sent to students regarding room allocation status or service updates.
+
+Key Features:
+- Room request submission
+- Room availability checks
+- Access to hostel services
+- Notification system for updates
 
 ==================== WORKFLOW 3: Warden Management Actions ====================
 Description:
