@@ -1,5 +1,18 @@
-WORKFLOW 1: User Authentication (Student & Warden)
+==================== WORKFLOW 2: Room Allocation & Hostel Services ====================
 
-WORKFLOW 2: Room Allocation & Hostel Services
+Description:
+This workflow allows students to request and view room allocation, and access hostel services.
 
-WORKFLOW 3: Warden Management Actions
+Steps:
+1. Student logs in and opens the “Room Allocation” section.
+2. Student submits a request for a room or checks their existing room.
+3. System checks availability and records the request.
+4. System notifies the student of room allocation or updates.
+5. Students can also view hostel facilities, meal plans, and other services.
+
+Key Features:
+- Room request and allocation status
+- View hostel services
+- Notifications for allocation updates
+
+===========================================================================================
