@@ -1,18 +1,8 @@
 ==================== WORKFLOW 1: User Authentication (Student & Warden) ====================
+...Workflow 1 content...
 
-Description:
-This workflow allows students and wardens to securely log into the hostel management system using their assigned IDs.
+==================== WORKFLOW 2: Room Allocation & Hostel Services ====================
+...Workflow 2 content...
 
-Steps:
-1. User opens the hostel management system website.
-2. User selects login type: Student or Warden.
-3. User enters Student ID or Warden ID along with their password.
-4. System validates the credentials.
-5. Based on role, the user is redirected to the respective dashboard (Student or Warden).
-
-Key Features:
-- Role-based login
-- Secure authentication
-- Separate dashboards for Student and Warden
-
-===========================================================================================
+==================== WORKFLOW 3: Warden Management Actions ====================
+...Workflow 3 content...
